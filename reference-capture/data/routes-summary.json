@@ -1,0 +1,101 @@
+[
+  {
+    "name": "home",
+    "url": "https://monof-template.webflow.io/",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 122,
+    "linksButtons": 85
+  },
+  {
+    "name": "studio",
+    "url": "https://monof-template.webflow.io/studio",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 70,
+    "linksButtons": 47
+  },
+  {
+    "name": "work-1",
+    "url": "https://monof-template.webflow.io/work/work-1",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 44,
+    "linksButtons": 55
+  },
+  {
+    "name": "work-2",
+    "url": "https://monof-template.webflow.io/work/work-2",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 44,
+    "linksButtons": 48
+  },
+  {
+    "name": "work-3",
+    "url": "https://monof-template.webflow.io/work/work-3",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 52,
+    "linksButtons": 48
+  },
+  {
+    "name": "contact-1",
+    "url": "https://monof-template.webflow.io/contact/contact-1",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 32,
+    "linksButtons": 42
+  },
+  {
+    "name": "contact-2",
+    "url": "https://monof-template.webflow.io/contact/contact-2",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 27,
+    "linksButtons": 39
+  },
+  {
+    "name": "contact-3",
+    "url": "https://monof-template.webflow.io/contact/contact-3",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 40,
+    "linksButtons": 41
+  },
+  {
+    "name": "blog-1",
+    "url": "https://monof-template.webflow.io/blog/blog-1",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 40,
+    "linksButtons": 41
+  },
+  {
+    "name": "blog-2",
+    "url": "https://monof-template.webflow.io/blog/blog-2",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 44,
+    "linksButtons": 46
+  },
+  {
+    "name": "blog-3",
+    "url": "https://monof-template.webflow.io/blog/blog-3",
+    "ok": true,
+    "css": 3,
+    "js": 9,
+    "images": 44,
+    "linksButtons": 48
+  }
+]

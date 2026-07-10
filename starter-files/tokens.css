@@ -1,0 +1,15 @@
+:root {
+  --bg: #f7f7f4;
+  --surface: #ffffff;
+  --text: #080808;
+  --muted: #777777;
+  --line: #e6e6e1;
+  --button: #050505;
+  --button-text: #ffffff;
+  --radius-sm: 12px;
+  --radius-md: 20px;
+  --radius-lg: 32px;
+  --radius-pill: 999px;
+  --shadow-soft: 0 20px 60px rgba(0,0,0,.12);
+  --container: 1440px;
+}

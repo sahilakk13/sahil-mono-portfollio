@@ -1,0 +1,597 @@
+[
+  {
+    "tag": "a",
+    "text": "Home\nHome",
+    "href": "https://monof-template.webflow.io/",
+    "ariaLabel": "",
+    "className": "button-with-line w-inline-block w--current"
+  },
+  {
+    "tag": "a",
+    "text": "Studio\nStudio",
+    "href": "https://monof-template.webflow.io/studio",
+    "ariaLabel": "",
+    "className": "button-with-line w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Work\nWork",
+    "href": "https://monof-template.webflow.io/work/work-1",
+    "ariaLabel": "",
+    "className": "button-with-line w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Contact\nContact",
+    "href": "https://monof-template.webflow.io/contact/contact-1",
+    "ariaLabel": "",
+    "className": "button-with-line w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Talk to Denis\n\n\nGet in touch\n\nSchedule a call",
+    "href": "https://cal.com/",
+    "ariaLabel": "",
+    "className": "contact-info no-shadow w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "",
+    "href": "https://www.linkedin.com/",
+    "ariaLabel": "",
+    "className": "social-wrapper w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "",
+    "href": "https://www.twitter.com/",
+    "ariaLabel": "",
+    "className": "social-wrapper sq w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "",
+    "href": "https://www.dribbble.com/",
+    "ariaLabel": "",
+    "className": "social-wrapper w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Privacy Policy\nPrivacy Policy",
+    "href": "https://www.flowmance.com/",
+    "ariaLabel": "",
+    "className": "button-with-line w-variant-83ed8c83-4d97-b61d-2146-78e915c17bb4 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Terms Of Use\nTerms Of Use",
+    "href": "https://www.flowmance.com/",
+    "ariaLabel": "",
+    "className": "button-with-line w-variant-83ed8c83-4d97-b61d-2146-78e915c17bb4 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Mōno™\n\nStudio",
+    "href": "https://monof-template.webflow.io/",
+    "ariaLabel": "",
+    "className": "logo-first w-inline-block w--current"
+  },
+  {
+    "tag": "a",
+    "text": "Home",
+    "href": "https://monof-template.webflow.io/",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block w--current"
+  },
+  {
+    "tag": "a",
+    "text": "Studio",
+    "href": "https://monof-template.webflow.io/studio",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Work (4)",
+    "href": "https://monof-template.webflow.io/work/work-1",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "News",
+    "href": "https://monof-template.webflow.io/blog/blog-1",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Contact",
+    "href": "https://monof-template.webflow.io/contact/contact-1",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Let's talk",
+    "href": "https://monof-template.webflow.io/contact/contact-2",
+    "ariaLabel": "Let's talk",
+    "className": "contact-info for-button w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "View all work",
+    "href": "https://monof-template.webflow.io/work/work-3",
+    "ariaLabel": "View all work",
+    "className": "contact-info for-button w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Forma Digital\n26\n©",
+    "href": "https://monof-template.webflow.io/project/forma-digital",
+    "ariaLabel": "",
+    "className": "work-main-wrapper w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "One Step\n24\n©",
+    "href": "https://monof-template.webflow.io/project/one-step",
+    "ariaLabel": "",
+    "className": "work-main-wrapper w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Nero Vision\n25\n©",
+    "href": "https://monof-template.webflow.io/project/nero-vision",
+    "ariaLabel": "",
+    "className": "work-main-wrapper w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Bold Moves\n24\n©",
+    "href": "https://monof-template.webflow.io/project/bold-moves",
+    "ariaLabel": "",
+    "className": "work-main-wrapper w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Mōno™\n\nStudio",
+    "href": "https://monof-template.webflow.io/",
+    "ariaLabel": "",
+    "className": "logo-first w-inline-block w--current"
+  },
+  {
+    "tag": "a",
+    "text": "Mōno™",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "",
+    "className": "logo-first normal w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "View pricing",
+    "href": "https://monof-template.webflow.io/#Pricing",
+    "ariaLabel": "View pricing",
+    "className": "contact-info for-button w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Get started",
+    "href": "https://cal.com/",
+    "ariaLabel": "Get started",
+    "className": "contact-info for-button w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "{\n  \"items\": [\n    {\n      \"url\": \"https://www.youtube.com/watch?v=677IU_NErto\",\n      \"originalUrl\": \"https://www.youtube.com/watch?v=677IU_NErto\",\n      \"width\": 940,\n      \"height\": 528,\n      \"thumbnailUrl\": \"https://i.ytimg.com/vi/677IU_NErto/hqdefault.jpg\",\n      \"html\": \"<iframe class=\\\"embedly-embed\\\" src=\\\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F677IU_NErto%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D677IU_NErto&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F677IU_NErto%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube\\\" width=\\\"940\\\" height=\\\"528\\\" scrolling=\\\"no\\\" title=\\\"YouTube embed\\\" frameborder=\\\"0\\\" allow=\\\"autoplay; fullscreen; encrypted-media; picture-in-picture;\\\" allowfullscreen=\\\"true\\\"></iframe>\",\n      \"type\": \"video\"\n    }\n  ],\n  \"group\": \"\"\n}",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "open lightbox",
+    "className": "play-video w-inline-block w-lightbox"
+  },
+  {
+    "tag": "a",
+    "text": "Book a call",
+    "href": "https://cal.com/",
+    "ariaLabel": "Book a call",
+    "className": "contact-info for-button w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Book a call",
+    "href": "https://cal.com/",
+    "ariaLabel": "Book a call",
+    "className": "contact-info for-button w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "01\nWhat services does your agency offer?",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "",
+    "className": "toggle-header w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "02\nHow do you determine the right strategy?",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "",
+    "className": "toggle-header w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "03\nHow long does a typical project take?",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "",
+    "className": "toggle-header w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "04\nDo you work with businesses in any industry?",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "",
+    "className": "toggle-header w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Contact Us\nContact Us",
+    "href": "https://monof-template.webflow.io/contact/contact-3",
+    "ariaLabel": "",
+    "className": "button-with-line w-variant-83ed8c83-4d97-b61d-2146-78e915c17bb4 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Let's talk",
+    "href": "https://monof-template.webflow.io/contact/contact-2",
+    "ariaLabel": "Let's talk",
+    "className": "contact-info for-button w-variant-6163d949-440e-f68f-1cb4-5777ca2b8f73 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "See all",
+    "href": "https://monof-template.webflow.io/blog/blog-1",
+    "ariaLabel": "See all",
+    "className": "contact-info for-button w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "November 11, 2025\n\nThe power of simplicity in modern real brand design",
+    "href": "https://monof-template.webflow.io/post/the-power-of-simplicity-in-modern-brand-design",
+    "ariaLabel": "",
+    "className": "blog-wrapper first w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "October 1, 2025\n\nFrom idea to execution: building products that last",
+    "href": "https://monof-template.webflow.io/post/from-idea-to-execution-building-products-that-last",
+    "ariaLabel": "",
+    "className": "blog-wrapper first w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "October 3, 2026\n\nWhy great brands are built on clarity, not complexity",
+    "href": "https://monof-template.webflow.io/post/why-great-brands-are-built-on-clarity-not-complexity",
+    "ariaLabel": "",
+    "className": "blog-wrapper first w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "October 4, 2025\n\nDesigning digital systems that scale your business",
+    "href": "https://monof-template.webflow.io/post/designing-digital-systems-that-scale-with-your-business",
+    "ariaLabel": "",
+    "className": "blog-wrapper first w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Terms",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "",
+    "className": "legal-link"
+  },
+  {
+    "tag": "a",
+    "text": "Privacy Policy",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "",
+    "className": "legal-link"
+  },
+  {
+    "tag": "a",
+    "text": "Crafting visuals. Shaping stories.\nLet’s create great work together!",
+    "href": "https://monof-template.webflow.io/contact/contact-1",
+    "ariaLabel": "",
+    "className": "link-footer w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Let’s Collaborate",
+    "href": "https://cal.com/",
+    "ariaLabel": "Let’s Collaborate",
+    "className": "contact-info for-button w-variant-6163d949-440e-f68f-1cb4-5777ca2b8f73 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Mōno™\n\nStudio",
+    "href": "https://monof-template.webflow.io/",
+    "ariaLabel": "",
+    "className": "logo-first w-inline-block w--current"
+  },
+  {
+    "tag": "a",
+    "text": "Home",
+    "href": "https://monof-template.webflow.io/",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block w--current"
+  },
+  {
+    "tag": "a",
+    "text": "Studio",
+    "href": "https://monof-template.webflow.io/studio",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Licensing",
+    "href": "https://monof-template.webflow.io/template-info/licenses",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Work I",
+    "href": "https://monof-template.webflow.io/work/work-1",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Work II",
+    "href": "https://monof-template.webflow.io/work/work-2",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Work III",
+    "href": "https://monof-template.webflow.io/work/work-3",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Blog I",
+    "href": "https://monof-template.webflow.io/blog/blog-1",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Blog II",
+    "href": "https://monof-template.webflow.io/blog/blog-2",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Blog III",
+    "href": "https://monof-template.webflow.io/blog/blog-3",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Contact I",
+    "href": "https://monof-template.webflow.io/contact/contact-1",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Contact II",
+    "href": "https://monof-template.webflow.io/contact/contact-2",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Contact III",
+    "href": "https://monof-template.webflow.io/contact/contact-3",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "contact@monostudio.io",
+    "href": "mailto:contact@monostudio.io",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(+1) 930 046 720",
+    "href": "tel:(+1)930046720",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "info@monostudio.io",
+    "href": "mailto:info@monostudio.io",
+    "ariaLabel": "",
+    "className": "button-link w-variant-b1bb63d0-0274-8c16-baad-8061fa201eb5 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "",
+    "href": "https://www.linkedin.com/",
+    "ariaLabel": "",
+    "className": "social-wrapper w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "",
+    "href": "https://www.twitter.com/",
+    "ariaLabel": "",
+    "className": "social-wrapper sq w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "",
+    "href": "https://www.dribbble.com/",
+    "ariaLabel": "",
+    "className": "social-wrapper w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Home",
+    "href": "https://monof-template.webflow.io/",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block w--current"
+  },
+  {
+    "tag": "a",
+    "text": "Work (4)",
+    "href": "https://monof-template.webflow.io/work/work-2",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Mōno™",
+    "href": "https://monof-template.webflow.io/#",
+    "ariaLabel": "",
+    "className": "logo-first bottom-menu w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Studio",
+    "href": "https://monof-template.webflow.io/studio",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Contact",
+    "href": "https://monof-template.webflow.io/contact/contact-2",
+    "ariaLabel": "",
+    "className": "button-link w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Home)",
+    "href": "https://monof-template.webflow.io/",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block w--current"
+  },
+  {
+    "tag": "a",
+    "text": "(Studio)",
+    "href": "https://monof-template.webflow.io/studio",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Work 1)",
+    "href": "https://monof-template.webflow.io/work/work-1",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Work 2)",
+    "href": "https://monof-template.webflow.io/work/work-2",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Work 3)",
+    "href": "https://monof-template.webflow.io/work/work-1",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Work Page)",
+    "href": "https://monof-template.webflow.io/project/nero-vision",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Blog 1)",
+    "href": "https://monof-template.webflow.io/blog/blog-1",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Blog 2)",
+    "href": "https://monof-template.webflow.io/blog/blog-2",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Blog 3)",
+    "href": "https://monof-template.webflow.io/blog/blog-3",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Blog Page)",
+    "href": "https://monof-template.webflow.io/post/designing-digital-systems-that-scale-with-your-business",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Contact 1)",
+    "href": "https://monof-template.webflow.io/contact/contact-1",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Contact 2)",
+    "href": "https://monof-template.webflow.io/contact/contact-2",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(Contact 3)",
+    "href": "https://monof-template.webflow.io/contact/contact-3",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(401)",
+    "href": "https://monof-template.webflow.io/401",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "(404)",
+    "href": "https://monof-template.webflow.io/404",
+    "ariaLabel": "",
+    "className": "template-slide w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Get Template\nGet Template",
+    "href": "https://www.flowmance.com/webflow-template/mono-agency-template",
+    "ariaLabel": "",
+    "className": "button-with-line w-variant-83ed8c83-4d97-b61d-2146-78e915c17bb4 w-inline-block"
+  },
+  {
+    "tag": "a",
+    "text": "Unlock 420+ Templates\n\nUnlock for $199",
+    "href": "https://www.flowmance.com/pricing",
+    "ariaLabel": "",
+    "className": "badge-wrapper w-inline-block"
+  }
+]
